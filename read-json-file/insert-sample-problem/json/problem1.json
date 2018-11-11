@@ -1,0 +1,30 @@
+{
+    "title": "Cộng hai số",
+    "description": "Nhập hai số a,b từ bàn phím. Tính tổng a + b và in ra màn hình",
+    "input_format": "a,b integer",
+    "output_format": "sum integer",
+    "testcases": [
+        {
+            "stdin": ["1", "1"],
+            "stdout": "2"
+        },
+        {
+            "stdin": ["0", "0"],
+            "stdout": "0"
+        },
+        {
+            "stdin": ["9", "-6"],
+            "stdout": "3"
+        }
+    ],
+    "sample_code": [
+        {
+            "source_code": "ahihi",
+            "language": "go"
+        },
+        {
+            "source_code": "ahaha",
+            "language": "c"
+        }
+    ]
+}
